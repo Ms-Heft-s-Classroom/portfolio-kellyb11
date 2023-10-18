@@ -12,28 +12,29 @@ h1 {
 
 h2 {
   font-size: 28px;
-  color: #f6cd61;
-}
-
-h3 {
-  font-size: 28px;
-  color: #fe8a71;
-}
-
-p {
   color: #4a4e4d;
+  background: #fe8a71;
+}
+
+p1 {
+  color: #f6cd61;
   font-size: 18px;
+}
+
+p2 {
+  font-family: monospace;
 }
 
 img {
   border-color: #fe8a71;
   border-width: 5px;
-  border-style: solid;
+  border-style: outset;
   border-radius: 10px;
-  width: 250px;
+  height: 160px;
+  width: 200px;
 }
 
-ul {
+.navbar {
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -41,7 +42,7 @@ ul {
   background-color: #fe8a71;
 }
 
-li {
+.tabs {
   float: left;
 }
 
