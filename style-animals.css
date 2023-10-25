@@ -45,7 +45,7 @@ ol {
 }
 
 ol li {
-  line-height: 75px;
+  line-height: 100px;
 }
 
 .navbar {
@@ -66,6 +66,10 @@ li a {
   text-align: center;
   padding: 14px 16px;
   color: #FDE9EA;
-  font-weight: bold;
   text-decoration: none;
+}
+
+iframe {
+  width: 890px;
+  height: 500px;
 }
