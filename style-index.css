@@ -30,8 +30,9 @@ img {
   border-width: 5px;
   border-style: outset;
   border-radius: 10px;
-  height: 160px;
-  width: 200px;
+  height: 297px;
+  width: 420px;
+
 }
 
 .navbar {
@@ -54,4 +55,13 @@ li a {
   color: #4a4e4d;
   font-weight: bold;
   text-decoration: none;
+}
+
+.list1 {
+  margin: auto;
+}
+
+.skill {
+  color: #f6cd61;
+  font-size: 18px;
 }
